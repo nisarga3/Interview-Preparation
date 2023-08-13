@@ -1,0 +1,80 @@
+Cloud is a set of computers that cloud services provides.
+- gives computational power to users, so they can use it for whatever they want without having to worry about hardware or software maintenance and upgrades.
+
+### - Scalabity
+The ability to add or remove resources from the system as needed, without downtime and with minimal loss in service.    
+    - buy bigger machines- vertical scaling
+    - buy more machines- horizontal scaling
+
+### Horizontal scaling
+    - load balancing required
+    +- resilient
+    - network calls( remote procedure calls)(slow)
+    - data inconsistent (many machines)
+    +- scales well, as users increase
+
+#### Vertical Scaling
+    - no need for load balancing
+    - Single point of failure
+    +- Interprocess  (fast)
+    +- data consistent (resides in one comp)
+    - hardware limit
+
+### System design- 
+1. Identify bottlenecks and fix them
+2. Scale horizontally to handle the increased traffic
+3. Add redundancy to improve system availability
+4. Improve performance by caching frequently accessed data
+5. Design for change: make sure your system can withstand unexpected changes
+6. Optimize for operations: ensure you have enough monitoring tools so you know when things go wrong
+7. Automate everything possible
+8. Keep it simple stupid
+9. Use technology that works best for the job
+
+### Distributed Systems
+Consider a pizza parlour- only 1 chef-- what can we do? How to handle more orders?
+    - Vertical scaling - optimise processes and increase throughput by using the same resourse
+    - Preprocessing- prepraing pizza bases before hand before peak hours
+    - Resilence (Backups)- lets say chef falls sick-- single point of failure- hire a backup chef for a day, (we have master slave architecture)
+    - Horizontal scaling- Hire more resources.
+
+If your chefs have speciality in pizzas and garlic bread-
+- #### Microservice architecture- 
+distribute the orders and divide responsibilities
+```
+Microservice architecture
+- each service has its own database and microservices communicate via API's
+```
+- what if there is electricity outage? no business??
+- Distribute the load, BACKUPS
+a whole new shop, we need to have communication betwen the 2 shops, and good routing of orders
+
+### Load Balancing?
+Lets say we have 2 shops, and a customer orders pizza,
+we must have a main router, which routes the order to the nearest shop 
+criteria to achive: minimum wait time for the customer
+lets say shop1 has 1 hr 15 min time to prep
+Lets say shop2 has 1 hr 5 min time to prep
+the router must send the order to shop2, and get real time updates and make intelligent business decisions
+that router is basically our load balancer
+
+### Extensibility?? Future proof?
+### DEcoupling the systems- 
+seprating out conernc so that we handle more systems efficiently
+- Delivery agent and pizza shop have nnothing in common, 
+the deleievry agent doesnt care if it a burger shop or anything
+- the shop doesnt care if the one picking up order is delivery agent or the customer himself
+
+
+### logging and metrics calculation 
+(Check when the delivery happened etc)
+1. Analytics
+2. Auditing
+3. Reporting
+4. Machine learning
+
+
+### High level systems design vs low level system design
+- LLD is basically on how they code it up, makimg classes, objects, functions etc 
+- https://www.interviewbit.com/system-design-interview-questions/
+- High Level Designs are about making sure you understand the big picture

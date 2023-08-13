@@ -15,7 +15,7 @@
     - Use case for no-sql is diff
         - Fast retrievals allowing redundancy to seep in
         - horizontal scaling to support distributed system executions
-        - sharding to improvise the way data is chunked into different       pieces
+        - sharding to improvise the way data is chunked into different pieces
     - We store parameter vals to generate a logstash conf file not updated frequently [We arent storing sensor data but the threshs]
     - If required, for a given set of system groups, the relations can be sharded
 
@@ -26,3 +26,9 @@
         SK& CK & PK = {name,parameter_name}
     - Action 
         SK & CK & PK = {name}
+
+- noSQL database over SQL db
+    - Gives you more control over consistency
+    - Built for scalabilty - in built capability of sharding
+    - no transaction support in noSQL (BASE support)
+    - SQL gives ACID - transaction support
