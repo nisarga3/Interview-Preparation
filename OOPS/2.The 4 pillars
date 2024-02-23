@@ -41,7 +41,7 @@
                 - differing by parameter [type and number]
                 - default parameters
             - operator overloading [only in cpp]
-                - Ex: {+} add and string conatenation
+                - Ex: {+} add and string concatenation
                 - Operators that cant be overloaded are  
                     . (dot)  
                     ::(scope resolution) 

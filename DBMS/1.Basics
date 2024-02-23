@@ -3,6 +3,7 @@
 - Information
     - Processed data which gives some sense to the representation of data
 
+https://www.javatpoint.com/file-system
 - File system vs DBMS
     - redundancy and inconsistency
         - bank DB, lets say savings account has address attr and later a current account is added

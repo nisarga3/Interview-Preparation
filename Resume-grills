@@ -24,3 +24,34 @@
     - CLI: Click
         - not argparse coz it guesses what is option and what is argument
     - ML: 
+
+- Describe your projects and what your approach was in solving them.
+
+
+- why mysql 
+    When to use SQL instead of NoSQL
+
+    01
+
+    You’re working with complex queries and reports.
+
+    With SQL you can build one script that retrieves and presents your data. NoSQL doesn’t support relations between data types.
+     Running queries in NoSQL is doable, but much slower.
+
+    02
+
+    You have a high transaction application.
+
+    SQL databases are a better fit for heavy duty or complex transactions because it’s more stable and ensure data integrity.
+
+    03
+
+    You need to ensure ACID compliance.
+
+    (Atomicity, Consistency, Isolation, Durability) or defining exactly how transactions interact with a database. 
+
+    04
+
+    You don’t anticipate a lot of changes or growth.
+
+    If you’re not working with a large volume of data or many data types, NoSQL would be overkill.

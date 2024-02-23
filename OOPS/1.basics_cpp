@@ -55,6 +55,8 @@
         }
 - Deep vs Shallow copy
     - default copy constructor uses shallow copy
+    - Shallow copy access same variables using different names (same memory is accessed)
+    - Deep copy makes two different variables in the memory
     - vaiables like character arrays or any references to heap will be copied from the initial object
     - A seperate copy must be made so that a change in the first object doesnt result in change of the second object
 
@@ -65,7 +67,7 @@
     - finalise() method works like a destrcutor for an object. It is defined inside the given class {Java}
 
 - Static 
-    - static variable doesnt belong to a given object
+    - static variable doesnt belong to a given object (no need to create object to access the static member)
     - belongs to a class
     - static functions can only access static variables
 

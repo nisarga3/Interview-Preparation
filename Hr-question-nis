@@ -1,0 +1,137 @@
+- Tell me about yourself
+    - Greet,Name,Edn bg
+    - Exp,skills,achievements
+    - Justify why you're the right fit for the role
+
+
+    - Answer:
+    (A warm Smile)
+    - Good afternoon!
+
+    - I’m Nisarga V. I’m currently pursuing my 6th semester in information science and engineering at RVCE Bangalore. 
+    -     - I love to work with databases, design them, configure APIs and integrate different modules in a project.. like backend and frontend
+        - Last summer, I interned at Samsung under PRISM (PReparing and Inspiring Student Minds) program, where I was exposed to real-world projects . I was assigned a worklet- semantic app search, where I contributed to a team that was building a Semantic app engine for mobile application
+    - I'm the Secretary within the main executive committee of IEEE RVCE Student Branch.  and  I also serve as the Technical Team Lead within the Student Activities Committee at IEEE Bangalore Section. 
+
+
+    - Overall, I see myself as a dedicated and adaptable (software engineer) individual with strong basics and a drive to keep learning and exploring new tech stacks and understanding their pros and cons and usecases
+
+   - Looking ahead, I'm excited about the prospect of working at HPE. I'm particularly drawn to your company's focus on innovation and cutting-edge technologies, and I'm eager to contribute my skills to develop software solutions that make a meaningful impact.
+
+
+    - First of all, thank you for giving me this opportunity to introduce myself.
+        I’m Nisarga V. I’m currently pursuing my 6th semester in information science and engineering at RVCE Bangalore. 
+
+        <!-- - From a young age, I've been fascinated by computers fundamentals and how it actually works. So i took up interest early on in computers and information science which is why information science is an obvious choice for my studies in college -->
+
+        <!-- - Apart from academics  -->
+        - I'm the Secretary within the main executive committee of IEEE RVCE Student Branch.  and  I also serve as the Technical Team Lead within the Student Activities Committee at IEEE Bangalore Section. 
+
+        - I've been actively shaping my skills in software engineering through my coursework and personal projects. My studies have provided me with a strong foundation in programming languages such as C++ and Python, as well as a deep understanding of fundamental data structures and algorithms. I've been able to put these skills into practice through projects , where I learned to work with databases, configure API, integration of backend and frtned , create distinct user views, and ensure smooth functionality. 
+
+        - Last summer, I interned at Samsung under PRISM (PReparing and Inspiring Student Minds) program, where I was exposed to real-world projects . I was assigned a worklet- semantic app search, where I contributed to a team that was building a Semantic app engine for mobile applications and got hands-on experience with natural language processing, version control, debugging, and writing clean and maintainable code. This experience solidified my passion for software engineering and provided me with insights into the professional world.
+
+        My hobbies are sketching and swimming.
+        
+        - Looking ahead, I'm excited about the prospect of working as a software engineer at [Company Name]. I'm particularly drawn to your company's focus on innovation and cutting-edge technologies, and I'm eager to contribute my skills to develop software solutions that make a meaningful impact.
+
+        - Overall, I see myself as a dedicated and adaptable (software engineer) induvidual with a strong foundation and a drive to keep learning and growing in this dynamic field."
+
+    OR
+        - My goal is to leverage my technical skills, creativity, and strong work ethic to secure a software engineering role where I can contribute my ideas and passion for innovation. I'm particularly drawn to companies like [Company Name] that are at the forefront of technological advancement and provide a nurturing environment for young talent like me to thrive.
+
+        - In a nutshell, I'm a dedicated and forward-thinking student who is enthusiastic about transitioning from academia to a rewarding career in software engineering."
+
+
+#### interviewer wants to know only 2 things
+WHAT is most IMPORTANT to you?
+IF u are fit for the job?
+    
+90 s
+
+use excitement to show passion
+slow down when neccesary
+who you are? education, define personality+adjective
+accomplishments+proof of performance
+how u r fit for the job?
+
+'''
+- First of all, thank you for giving me this opportunity to introduce myself.
+        I’m Nisarga V. I’m currently pursuing my 6th semester in information science and engineering at RVCE Bangalore. 
+
+        - From a young age, I've been fascinated by computers fundamentals and how it actually works. So i took up interest early on in computers and information science which is why information science is an obvious choice for my studies in college
+
+        - I've been actively shaping my skills in software engineering through my coursework and personal projects. My studies have provided me with a strong foundation in programming languages such as C++ and Python, as well as a deep understanding of fundamental data structures and algorithms. I've been able to put these skills into practice through projects , where I learned to work with databases, configure API, integration of backend and frtned , create user interfaces, and ensure smooth functionality.
+
+        Last summer, I interned at Samsung under PRISM (PReparing and Inspiring Student Minds), where I was exposed to real-world projects . I was assigned a worklet- semantic app search, where I contributed to a team that was building a Semantic app engine for mobile applications and got hands-on experience with natural language processing, version control, debugging, and writing clean and maintainable code. This experience solidified my passion for software engineering and provided me with insights into the professional world.
+
+        - Apart from academics I'm the Secretary within the main executive committee of IEEE RVCE Student Branch.  and  I also serve as the Technical Team Lead within the Student Activities Committee at IEEE Bangalore Section. 
+        My passion for technology is evident in my interests and experiences. I find great satisfaction in crafting SQL queries and creating distinct views tailored to each user.
+
+        - Looking ahead, I'm excited about the prospect of working as a software engineer at [Company Name]. I'm particularly drawn to your company's focus on innovation and cutting-edge technologies, and I'm eager to contribute my skills to develop software solutions that make a meaningful impact.
+
+        - Overall, I see myself as a dedicated and adaptable (software engineer) induvidual with a strong foundation and a drive to keep learning and growing in this dynamic field."
+
+    OR
+        - My goal is to leverage my technical skills, creativity, and strong work ethic to secure a software engineering role where I can contribute my ideas and passion for innovation. I'm particularly drawn to companies like [Company Name] that are at the forefront of technological advancement and provide a nurturing environment for young talent like me to thrive.
+
+        - In a nutshell, I'm a dedicated and forward-thinking student who is enthusiastic about transitioning from academia to a rewarding career in software engineering."
+   '''     
+
+
+
+dbms
+abstraction-- oops irl -- 
+different views in sql---- 
+intgerating apis, frontend, diffent architecture- cors dependencies--(https req-- endpoints-cn)
+i hve been curious to learn new things, 
+interests-- hobbies
+
+#### Can you please tell me a bit about yourself?
+#### Please tell me why you would be a good fit for this role.
+i worked on cutting edge tech, understanding of empthy.understanding requiremt, by using my both customer centric skills and tech skills, i think im good fit fr role
+
+#### Tell me about a time when you had to act quickly but didn’t have a lot of data to inform your decision. What did you do, and what was the outcome?
+#### How would you describe your working style?
+#### Please share a time when you set a goal for yourself and achieved it. How did you go about that?
+#### Describe a situation when you disagreed with someone at work. What did you do, and what was the result?
+#### Please tell me about some of your strengths and weaknesses.
+
+#### How do we ensure all network devices get unique IPs and avoid conflicts?
+
+#### How to handle stress?
+For me, having a healthy amount of stress is a huge motivator as it keeps me on track towards my goals. But to handle it well, I make sure to do a lot of planning to prioritise my tasks. So when stress does arise, my plans remind me how to tackle the situation one step at a time by prioritising what is important so that there are less errors. Outside of work, I practice mindfulness and meditation to start my day with positive emotions.
+
+#### weakness
+- sometimes I get on too many details which slows me down when I have to get things done quickly
+This thing is because I want to get things done perfectly, but now I'm learning to do things faster.
+- abt getting scared to speak in public
+
+time management - strength
+priortise tasks-- tell example ieee and academeics
+i feel i learn more when i work in grp, because ideas r shared- team player
+prism projet, ieee
+
+why hpe?
+always wanted to join cloud company.
+i was facsicnated customer satisgactorion over other things.
+i saw --tell full hpe product,---
+cloud , fasnicating, majorly networking and cloud, liked networking, wanted to pursue more depper skills in these comncepts
+
+worklife balance and money
+worklife balance will enhnce my proudctivity, 
+so ---
+so i feel hpe is abest start for my career
+ both will motivate me 
+
+  - Good afternoon!
+
+    - I’m Nisarga V. I’m currently pursuing my 6th semester in information science and engineering at RVCE Bangalore. 
+    -     - I love to work with databases, design them, configure APIs and integrate different modules in a project.. like backend and frontend
+        - Last summer, I interned at Samsung under PRISM (PReparing and Inspiring Student Minds) program, where I was exposed to real-world projects . I was assigned a worklet- semantic app search, where I contributed to a team that was building a Semantic app engine for mobile application
+    - I'm the Secretary within the main executive committee of IEEE RVCE Student Branch.  and  I also serve as the Technical Team Lead within the Student Activities Committee at IEEE Bangalore Section. 
+
+
+    - Overall, I see myself as a dedicated and adaptable (software engineer) individual with strong basics and a drive to keep learning and exploring new tech stacks and understanding their pros and cons and usecases
+
+   - Looking ahead, I'm excited about the prospect of working at HPE. I'm particularly drawn to your company's focus on innovation and cutting-edge technologies, and I'm eager to contribute my skills to develop software solutions that make a meaningful impact.

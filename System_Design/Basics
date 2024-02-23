@@ -36,8 +36,7 @@ Consider a pizza parlour- only 1 chef-- what can we do? How to handle more order
     - Vertical scaling - optimise processes and increase throughput by using the same resourse
     - Preprocessing- prepraing pizza bases before hand before peak hours
     - Resilence (Backups)- lets say chef falls sick-- single point of failure- hire a backup chef for a day, (we have master slave architecture)
-    - Horizontal scaling- Hire more resources.
-
+.
 If your chefs have speciality in pizzas and garlic bread-
 - #### Microservice architecture- 
 distribute the orders and divide responsibilities
