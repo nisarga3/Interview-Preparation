@@ -2,7 +2,7 @@
 ### Role: CAGBU
 
 #### Round1: Technical
-- Introduce yourself by focussing more on the technical aspect
+- Introduce yourself by focusing more on the technical aspect
 - What language do you code in?
 - what's your favourite subject
 - Write a snippet of code representing inheritance
