@@ -1,3 +1,4 @@
+<!-- gaurav Sen -->
 Cloud is a set of computers that cloud services provides.
 - gives computational power to users, so they can use it for whatever they want without having to worry about hardware or software maintenance and upgrades.
 
@@ -60,7 +61,7 @@ that router is basically our load balancer
 ### Extensibility?? Future proof?
 ### DEcoupling the systems- 
 seprating out conernc so that we handle more systems efficiently
-- Delivery agent and pizza shop have nnothing in common, 
+- Delivery agent and pizza shop have nothing in common, 
 the deleievry agent doesnt care if it a burger shop or anything
 - the shop doesnt care if the one picking up order is delivery agent or the customer himself
 
@@ -77,3 +78,6 @@ the deleievry agent doesnt care if it a burger shop or anything
 - LLD is basically on how they code it up, makimg classes, objects, functions etc 
 - https://www.interviewbit.com/system-design-interview-questions/
 - High Level Designs are about making sure you understand the big picture
+
+### consistent hashing
+

@@ -43,7 +43,7 @@ int main()
     //
 
     int a[] = {8, 2, 3, 4, 5};
-    cout << "\n\nARRAY POINTERS\nint a[]={1,2,3,4,5};\nname of array prints- address of first element " << a;
+    cout << "\n\nARRAY POINTERS\nint a[]={8,2,3,4,5};\nname of array prints- address of first element " << a;
     int *q = a;
     cout << "\nfirst ele " << *q << "\naddress of first ele " << q;
     cout << " address of first memory block is " << &a[0] << endl;
